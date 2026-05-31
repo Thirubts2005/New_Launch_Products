@@ -2,7 +2,7 @@
 
 LaunchLens is a modern platform that tracks and showcases newly launched products from Product Hunt in real time. It helps makers, developers, startup founders, and tech enthusiasts discover trending products through a powerful analytics dashboard.
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview](./assets/Launch_DashBoard.png)
 
 ## ✨ Features
 
